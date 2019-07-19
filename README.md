@@ -1,3 +1,7 @@
+
+
+
+
 ## JavaScript XHR
 
 The XMLHttpRequest object, or XHR, is a JavaScript API that allows us to
